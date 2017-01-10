@@ -1,0 +1,2 @@
+# Cuto
+Cuto - Wallpaper App
