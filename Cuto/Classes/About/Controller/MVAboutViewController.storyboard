@@ -22,7 +22,7 @@
                             <rect key="frame" x="0.0" y="0.0" width="375" height="230"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <subviews>
-                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="placeholderImage.png" translatesAutoresizingMaskIntoConstraints="NO" id="Qc7-bw-Lo9">
+                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon.png" translatesAutoresizingMaskIntoConstraints="NO" id="Qc7-bw-Lo9">
                                     <rect key="frame" x="0.0" y="0.0" width="375" height="150"/>
                                     <constraints>
                                         <constraint firstAttribute="width" constant="375" id="Hgy-CG-x8F"/>
@@ -210,6 +210,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="placeholderImage.png" width="1366" height="768"/>
+        <image name="icon.png" width="1024" height="1024"/>
     </resources>
 </document>
